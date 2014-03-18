@@ -45,7 +45,7 @@ Annex (Assistant)
     - [Sublime Text 2](https://github.com/kemayo/sublime-text-git)
     - gedit (use RabbitVCS)
 
-## Awesome resources
+## Awesome resources, and how!
 
  - [Basic commands cheat sheet(s)](http://git-scm.com/docs) (Note the links to
    other cheat sheets!)
@@ -93,3 +93,4 @@ Forking on github is same as cloning in the command line.
 ## Data Standards: Keeping Data Clean
 
 Please check out the [Open Knowledge Foundation's Data Standards](http://data.okfn.org/standards)!
+
